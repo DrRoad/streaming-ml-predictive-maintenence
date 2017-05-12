@@ -2,7 +2,7 @@
 
 Example for using DSE Streaming analytics for predictive maintenence 
 
-##Startup Script
+## Startup Script
 
 This Asset leverages
 [simple-startup](https://github.com/jshook/simple-startup). To start the entire
